@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 Conversas sobre tudo e sobre nada, sobre coisas pequenas e coisas grandes, sobre coisas escondidas e conhecidas.:
 Estas conversas contam com a distinta participação da Marizé e do Rafa, sendo moderadas pelo muito paciente Tiago Gonçalves.:
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "pod-sobrinhos/" # the subpath of your site, e.g. /blog
+url: "https://tvieiragoncalves.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tiago_1989
 github_username:  tvieiragoncavles
 
