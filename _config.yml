@@ -11,7 +11,7 @@ github_username:  tvieiragoncavles
 
 
 markdown: kramdown
-theme: minima
+remote_theme: minima
 plugins:
   - jekyll-feed
 
